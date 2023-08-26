@@ -13,8 +13,8 @@ To know more about the columns of dataset check [here](https://github.com/Syed-S
 ### Summary of Analysis 
 * Looking at total cases vs total deaths. Letality rate in your region daily.
 * Looking total cases vs Population. Show what percentage of population got Covid.
-* Looking at Regions with highest infection rate compared to population
-* Showing Regions with highest Death count per Population
-* Global Numbers
-* Positivity rate per region daily
+* Looking at Regions with highest infection rate compared to population.
+* Showing Regions with highest Death count per Population.
+* Global Numbers.
+* Positivity rate per region daily.
 * Creating Views for Data Visualization.
