@@ -1,5 +1,10 @@
 # [Covid-Analysis-Project](https://github.com/Syed-Sarfaraz-Ahmed/Covid-Analysis-Project/blob/main/Covid_Analysis_Project.sql)
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Syed-Sarfaraz-Ahmed/Covid-Analysis-Project?logo=github)
+![GitHub last commit](https://custom-icon-badges.demolab.com/github/last-commit/Syed-Sarfaraz-Ahmed/Covid-Analysis-Project?logo=history&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?logo=github) 
+
+
 In This Project I performed Exploratory Data Analysis with SQL on Covid-Virus Across the world.
 
 ## About the Datasets
